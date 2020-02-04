@@ -1,5 +1,6 @@
 # ThinkStats2_MyAnswers
-My answers to the python excercises in the book ThinkStats2. The book contains the following topics in statistics: 1.Exploratory data analysis 
+My answers to the python excercises in the book ThinkStats2. The book contains the following topics in statistics: 
+1.Exploratory data analysis 
 2.Distributions 
 3.Probability mass functions 
 4.Cumulative distribution functions 
