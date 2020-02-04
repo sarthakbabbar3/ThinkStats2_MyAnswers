@@ -7,7 +7,8 @@ My answers to the python excercises in the book ThinkStats2. The book contains t
 5.Modeling distributions <br>
 6.Probability density functions <br>
 7.Relationships between variables <br>
-8.Estimation 9.Hypothesis testing <br>
+8.Estimation <br>
+9.Hypothesis testing <br>
 10.Linear least squares <br>
 11.Regression <br>
 12.Time series analysis <br>
